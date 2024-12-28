@@ -1,0 +1,16 @@
+{
+    "name": "senju/workopia-php",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "senju",
+            "email": "vamshikrishnabandari1234@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
